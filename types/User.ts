@@ -1,6 +1,6 @@
 export type User = {
     _id: string | undefined,
-    name: string,
+    nome: string,
     email: string,
-    password: string
+    senha: string
 }
